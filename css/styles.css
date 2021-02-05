@@ -44,5 +44,11 @@ a, a:hover {
       background-color: rgba(0,0,0,0.5);
   }
   .carousel {
-      border: solid #5637DD;
+      border: solid #5edd37;
+  }
+  #carouselButton{
+      position:absolute;
+      right: 0;
+      bottom: 0;
+      z-index: 100;
   }
